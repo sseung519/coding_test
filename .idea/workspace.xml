@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83aafc9-e84d-46fc-af38-af4145e9cf82" name="변경" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/week5/Quiz03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/Quiz1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/Quiz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Quiz4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,6 @@
     &quot;accountId&quot;: &quot;90669b55-2eb9-47b4-b830-32471bda7203&quot;
   }
 }</component>
-  <component name="PerforceDirect.Settings">
-    <option name="CHARSET" value="없음" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -67,6 +64,7 @@
     "애플리케이션.Mai.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Quiz08.executor": "Run",
+    "애플리케이션.Test.executor": "Run",
     "애플리케이션.main.executor": "Run",
     "애플리케이션.test.executor": "Run"
   }
@@ -108,7 +106,11 @@
       <workItem from="1724392202043" duration="3763000" />
       <workItem from="1724398535146" duration="5237000" />
       <workItem from="1724480627076" duration="6000" />
-      <workItem from="1724639935647" duration="12336000" />
+      <workItem from="1724639935647" duration="18276000" />
+      <workItem from="1724809568514" duration="227000" />
+      <workItem from="1724983930013" duration="388000" />
+      <workItem from="1724984341803" duration="5000" />
+      <workItem from="1724998446106" duration="4560000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -142,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724398823188</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1724656261453</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724656261453</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
